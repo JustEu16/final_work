@@ -1,8 +1,8 @@
 * {
   font-family: "Noto Sans JP", sans-serif;
 }
-p {
-  font-size: 14px;
+p{
+  font-size : 14px;
 }
 .navbar-nav {
   margin-left: 100px;
@@ -12,24 +12,24 @@ p {
 }
 .ncyu {
   padding-top: 30px;
-  width: 100%;
-  margin-left: 0%;
+  width :80%;
+  margin-left : 10%;
 }
 section {
   padding-top: 80px;
 }
-section#s1 {
-  background-image: url("https://justeu16.github.io/final_work/BG1.jpg");
+section#s1{
+  background-image:url("https://justeu16.github.io/final_work/BG1.jpg");
 }
-section#s2 {
-  background-image: url("https://justeu16.github.io/final_work/BG1.jpg");
+section#s2{
+  background-image:url("https://justeu16.github.io/final_work/BG1.jpg");
+} 
+section#s3{
+  background-image:url("https://justeu16.github.io/final_work/BG1.jpg");
 }
-section#s3 {
-  background-image: url("https://justeu16.github.io/final_work/BG1.jpg");
-}
-section#s4 {
-  background-image: url("https://justeu16.github.io/final_work/BG1.jpg");
-}
+section#s4{
+  background-image:url("https://justeu16.github.io/final_work/BG1.jpg");
+} 
 
 .toTop-arrow {
   width: 2.5rem;
@@ -99,8 +99,8 @@ h1 {
   width: 90%;
   height: 65%;
   padding: 20px;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left :auto;
+  margin-right : auto;
   margin-top: 100px;
   background-color: #e3e1e1;
   color: rgba(0, 0, 0, 0.5);
@@ -114,18 +114,14 @@ h1 {
 }
 .photo {
   margin-top: 10%;
-  margin-left: 10%;
-  width: 90%;
-  height: 90%;
+  margin-left:10%;
+  width: 450px
+  height: 250px;
 }
-.relative {
-  position: relative;
-  left: 470px;
-}
-hr.new1 {
+hr.new1{
   border: 2px solid gray;
 }
-hr.new2 {
+hr.new2{
   border: 1px solid gray;
-  margin-top: auto;
+  margin-top : auto;
 }
